@@ -1,7 +1,11 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: fantasy;
     background-color: blue
 }
 h1{
-    color: red;
+    color: rgb(43, 255, 0);
 } 
+p{
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
